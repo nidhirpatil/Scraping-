@@ -1,2 +1,2 @@
 # Scraping-
-Codes to scrape data.
+Code to scrape data.
